@@ -1,8 +1,8 @@
 # twitter-front-end (vue)
 
-## 專案網址:https://vincelee9527.github.io/twitter-front-end-vue/#/signin 
+## 專案網址:https://emily81926.github.io/twitter-front-end-vue/
 
-[![Signin](https://i.ibb.co/yY2prnq/2021-12-10.png)](https://vincelee9527.github.io/twitter-front-end-vue/#/signin)
+[![Signin](https://i.ibb.co/yY2prnq/2021-12-10.png)](https://emily81926.github.io/twitter-front-end-vue/)
 
 ## 功能
 - 前台與後台有不同的登入入口, 使用者只能使用前台功能，管理員只能使用後台功能
@@ -60,7 +60,7 @@ nodemon app.js // windows使用者使用這行
 
 ### Project setup(前端)
 ```
-git clone https://github.com/VinceLee9527/twitter-front-end-vue.git
+git clone https://github.com/Emily81926/twitter-front-end-vue.git
 cd twitter-front-end-vue
 npm install
 ```
