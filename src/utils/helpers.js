@@ -1,7 +1,7 @@
 import axios from 'axios'
 import Swal from 'sweetalert2'
 
-const baseURL = process.env.BASE_URL;
+const baseURL = "https://twitter-api-2020-emilyyang.herokuapp.com/api";
 
 const axiosInstance = axios.create({
     baseURL
