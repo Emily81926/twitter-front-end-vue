@@ -232,6 +232,6 @@ export default {
 };
 </script>
 
-<style lang="scss">
-@import "../assets/styles/_EditModal.scss";
+<style lang="scss" scoped>
+@import "../assets/styles/_editModal.scss";
 </style>
